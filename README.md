@@ -1,6 +1,6 @@
 Karthick Ganesh M - 
-👋 Hi, I’m @HarishNarasimhanK
+👋 Hi, I’m @Karthickganesh Muthuraj
 👀 I’m interested in Machine Learning and Artificial Intelligence
 🌱 I’m currently learning Generative AI and blockchain Development
-📫 How to reach me : harishnarasimhan0135@gmail.com | 126003102@sastra.ac.in
+📫 How to reach me : karthickganeshm01@gmail.com
 😄 Pronouns: He/Him
